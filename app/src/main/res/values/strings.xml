@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Productivity</string>
+    <string name="_1st_quarter">1st Quarter</string>
+    <string name="score">score</string>
+    <string name="extra_goals">extra goals</string>
+    <string name="productivity">Productivity</string>
+    <string name="final_evaluation">Final Evaluation: %s</string>
+</resources>

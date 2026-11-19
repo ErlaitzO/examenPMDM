@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Productividad</string>
+    <string name="_1st_quarter">Primer Trimestre</string>
+    <string name="score">puntuación</string>
+    <string name="extra_goals">objetivos extra</string>
+    <string name="productivity">Productividad</string>
+    <string name="final_evaluation">Evaluación Final: %s</string>
+</resources>
